@@ -1,0 +1,9 @@
+Package: com.cabralcole.messagetypingindicators
+Name: MessageTypingIndicators
+Depends: mobilesubstrate, firmware (>= 6.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: enable/disable typing indicators for iMessages.
+Maintainer: colecabral
+Author: colecabral
+Section: Tweaks
